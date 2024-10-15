@@ -2,7 +2,7 @@
     background: color hsl(180, 96%, 51%); 
     color: #white;
     display: flex;
-    justify-content: space around;
+    justify-content:space-around;
     align-items: center;
 }
 
