@@ -28,4 +28,10 @@
 
 .escola-imagem{
      background-image: linear-gradient(#424E61, #4EBFE9);
+     color: white;
+     display: flex;
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
